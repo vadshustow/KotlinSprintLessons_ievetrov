@@ -10,5 +10,3 @@ fun main() {
 
     println("${"%02d".format(hour)}:${"%02d".format(minute)}:${"%02d".format(seconds)}")
 }
-
-//    println("%02d".format(hour))
