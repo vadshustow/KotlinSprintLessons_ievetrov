@@ -4,7 +4,7 @@ fun main() {
 
     var startOfMove = "E2"
     var endOfMove = "E4"
-    var moveNumber = 1
+    var moveNumber = "1"
 
     var move = "[$startOfMove-$endOfMove;$moveNumber]"
 
@@ -12,7 +12,7 @@ fun main() {
 
     startOfMove = "D2"
     endOfMove = "D3"
-    moveNumber = 2
+    moveNumber = "2"
 
     move = "[$startOfMove-$endOfMove;$moveNumber]"
 
